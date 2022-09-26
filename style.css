@@ -1,0 +1,27 @@
+
+.heading {
+    text-align: center;
+    font-family: sans-serif;
+    color: blue;
+}
+
+.page {
+    background-color: rgb(197, 190, 190);
+}
+
+.paragraph {
+    text-align: justify;
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    
+}
+
+.picture {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
